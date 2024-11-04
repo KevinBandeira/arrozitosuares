@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    gap: 50px;
+}
+
+button {
+    width: 200px;
+    height: 75px;
+    border-radius: 15px;
+    background-color: black;
+    border: 2px solid gold;
+    color: gold;
+    font-size: 20px;
+}
