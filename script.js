@@ -35,4 +35,4 @@ function arroz() {
 // Inicia a animação ao carregar a página ou clicar no botão
 arroz();
 
-
+/*aaaa*/
